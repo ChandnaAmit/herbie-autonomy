@@ -879,8 +879,7 @@ def main():
             # detect and blur all visible faces in the frame before saving/displaying it.
             num_faces_blurred = 0
             if FACE_BLUR:
-                num_faces_blurred = 0
-                #num_faces_blurred = blur_all_faces(vis, face_detector, blur_k=FACE_BLUR_K)
+                num_faces_blurred = blur_all_faces(vis, face_detector, blur_k=FACE_BLUR_K)
             put_label_with_bg(vis, f"FaceBlur:{FACE_BLUR}", 700, 32, scale=0.5, thickness=1)
             
             # Write to view file
