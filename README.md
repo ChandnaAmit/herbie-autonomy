@@ -1,4 +1,5 @@
 # Herbie Autonomy
+<img width="968" height="632" alt="herbie-autonomy-theme-small" src="https://github.com/user-attachments/assets/e735bbe1-dba9-4c72-92e9-4f053ae8a0aa" />
 
 Herbie is an edge-AI autonomous rover built on NVIDIA Jetson Orin Nano and Intel RealSense D435i for real-world person following, depth-aware navigation, and robotics experimentation. The project combines onboard perception, object tracking, motor control, hazard detection, and field-tested visual debugging overlays into a single embedded robotics platform.
 
