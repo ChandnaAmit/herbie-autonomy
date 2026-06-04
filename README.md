@@ -7,7 +7,7 @@ The project started as a hands-on way to learn Python and embedded AI, and has e
 
 This repository contains the Jetson-side autonomy logic and Arduino-side firmware used to control steering, throttle, and vehicle lighting.
 
-## Demo Video
+## Demo Videos
 
 Outdoor Autonomy Mode field test:
 https://youtu.be/tP_Axe6zLL8?si=sUzR0vX0LdcxIyvi
