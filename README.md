@@ -3,14 +3,17 @@
 
 Herbie is an edge-AI autonomous rover built on NVIDIA Jetson Orin Nano and RealSense D435i for real-world robotics experimentation, person following, depth-aware navigation, and sidewalk-scale autonomy.
 
-## Demo Video
-
-Outdoor autonomy field test:
-https://www.youtube.com/your-video-link
-
 The project started as a hands-on way to learn Python and embedded AI, and has evolved into a field-tested autonomy platform combining onboard perception, depth sensing, semantic path detection, local planning, PlayStation controller takeover, clean/debug video logging, and Arduino-based motor control.
 
 This repository contains the Jetson-side autonomy logic and Arduino-side firmware used to control steering, throttle, and vehicle lighting.
+
+## Demo Video
+
+Outdoor autonomy Mode field test:
+https://youtu.be/tP_Axe6zLL8?si=sUzR0vX0LdcxIyvi
+
+Outdoor Following Mode field test:
+https://youtu.be/ONJ6ncm3Dvs?si=gB_UKVLDzsgjgXbW
 
 ## Overview
 
