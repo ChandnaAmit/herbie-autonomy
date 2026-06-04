@@ -9,10 +9,10 @@ This repository contains the Jetson-side autonomy logic and Arduino-side firmwar
 
 ## Demo Video
 
-Outdoor autonomy Mode field test:
+Outdoor Autonomy Mode field test:
 https://youtu.be/tP_Axe6zLL8?si=sUzR0vX0LdcxIyvi
 
-Outdoor Following Mode field test:
+Outdoor Person-Following Mode field test:
 https://youtu.be/ONJ6ncm3Dvs?si=gB_UKVLDzsgjgXbW
 
 ## Overview
